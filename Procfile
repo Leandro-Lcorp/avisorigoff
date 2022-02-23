@@ -1,1 +1,1 @@
-web: python avisorigoff.py
+worker: python avisorigoff.py
